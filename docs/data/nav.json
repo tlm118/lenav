@@ -1,26 +1,26 @@
 {
   "company": {
-      "title": "公司环境地址",
-      "name": "company",
+      "title": "操作系统",
+      "name": "os",
       "icon": "ios-contacts-outline",
       "nav": [
           {
               "icon": "./static/images/jenkins.png",
-              "name": "jenkins",
-              "desc": "测试环境Jenkins",
+              "name": "Windows",
+              "desc": "Windows操作系统",
               "link": "http://127.0.0.1:8080/",
               "doc": "/data/docs/jenkins.md"
           },
           {
               "icon": "./static/images/confluence.png",
-              "name": "Confluence",
-              "desc": "Confluence, 技术文档",
+              "name": "MacOS",
+              "desc": "苹果电脑操作系统",
               "link": "http://127.0.0.1:8090/"
           },
           {
               "icon": "./static/images/nexus.png",
-              "name": "nexus",
-              "desc": "nexus私服",
+              "name": "Linux",
+              "desc": "Linux操作系统",
               "link": "http://127.0.0.1:8081/"
           },
           {
