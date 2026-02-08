@@ -6,21 +6,21 @@
       "nav": [
           {
               "icon": "./static/images/jenkins.png",
-              "name": "Windows",
-              "desc": "Windows操作系统",
+              "name": "jenkins",
+              "desc": "测试环境Jenkins",
               "link": "http://127.0.0.1:8080/",
               "doc": "/data/docs/jenkins.md"
           },
           {
               "icon": "./static/images/confluence.png",
-              "name": "MacOS",
-              "desc": "苹果电脑操作系统",
+              "name": "Confluence",
+              "desc": "Confluence, 技术文档",
               "link": "http://127.0.0.1:8090/"
           },
           {
               "icon": "./static/images/nexus.png",
-              "name": "Linux",
-              "desc": "Linux操作系统",
+              "name": "nexus",
+              "desc": "nexus私服",
               "link": "http://127.0.0.1:8081/"
           },
           {
@@ -727,4 +727,3 @@
       ]
   }
 }
-
