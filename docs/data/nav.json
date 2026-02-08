@@ -1,7 +1,7 @@
 {
-  "company": {
+  "xitong": {
       "title": "操作系统",
-      "name": "os",
+      "name": "xitong",
       "icon": "ios-contacts-outline",
       "nav": [
           {
@@ -727,3 +727,4 @@
       ]
   }
 }
+
